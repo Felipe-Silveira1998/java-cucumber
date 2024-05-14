@@ -1,0 +1,6 @@
+environments:
+  hml:
+    sauceDemo:
+      url: https://www.saucedemo.com/
+
+
